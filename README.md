@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/furniture-emporium.git)
+
+---
+
 # Furniture Emporium
 
 ![Screenshot of a possible solution to the workshop](/images/example.png)
