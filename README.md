@@ -2,6 +2,8 @@
 
 [source repo](https://github.com/FullstackAcademy/furniture-emporium.git)
 
+[website](https://furniture-emporium-raven5211.netlify.app)
+
 ---
 
 # Furniture Emporium
